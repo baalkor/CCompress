@@ -1,0 +1,14 @@
+David Clignez
+#############
+
+Installation sous Linux:
+(utilisateur root facultatif)
+cd Deflate
+./configure 
+
+Compilation
+make
+
+(Utilisateur root indispensable)
+make install
+

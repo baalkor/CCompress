@@ -1,0 +1,3 @@
+Compress	Fichiers compressés avec le projet
+Original	Fichiers originaux non compressés
+Gzip		Fichiers compressés avec le programme gzip

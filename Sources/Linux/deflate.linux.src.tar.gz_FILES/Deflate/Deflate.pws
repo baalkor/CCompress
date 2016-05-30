@@ -1,0 +1,34 @@
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filenumbers]
+0=12
+1=1
+2=1
+
+[filemarkers]
+0=
+1=
+2=
+
+[filelist]
+0=/home/dclignez/Projects/Deflate/include/CDeflate.h
+1=/home/dclignez/Projects/Deflate/src/Demo.cpp
+2=/home/dclignez/Projects/Deflate/src/CDeflate.cpp
+
+[Project Tree]
+0=0
+1=0:0
+2=0:1
+
+[File Tree]
+0=0
