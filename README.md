@@ -1,2 +1,2 @@
-# CCompress
-Travail de dplôme CFC
+# Defalte
+LZ compression alo. in C++
